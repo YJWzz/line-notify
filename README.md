@@ -1,3 +1,7 @@
+npm i --lagacy-peer-deps
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 npm i dotenv
 
 npm i webpack
@@ -16,4 +20,3 @@ npm i express
  
 npm i @line/bot-sdk --save
 
-npm i --lagacy-peer-deps
